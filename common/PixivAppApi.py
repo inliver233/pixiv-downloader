@@ -23,7 +23,7 @@ USER_DETAIL_URL = APP_API_BASE_URL + "/v1/user/detail"
 
 # Pixiv App OAuth public client identifiers.
 APP_CLIENT_ID = "MOBrBDS8blbauoSck0ZfDbtuzpyT"
-APP_CLIENT_SECRET = "lsACyCD94FhDUtGTXi3QzcFE2uU1a32r"
+APP_CLIENT_SECRET = "lsACyCD94FhDUtGTXi3QzcFE2uU1hqtDaKeqrdwj"
 
 # This is the well-known Pixiv Android hash secret used for X-Client-Hash.
 HASH_SECRET = "28c1fdd170a5204386cb1313c7077b34f83e4aaf4aa829ce78c231e05b0bae2c"
